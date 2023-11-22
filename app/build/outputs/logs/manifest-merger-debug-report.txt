@@ -1,0 +1,435 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+	package
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:4:2-28
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:2:1-205:12
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:3:2-60
+application
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:5:2-204:16
+	android:label
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:8:3-35
+	android:icon
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:7:3-36
+	android:allowBackup
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:6:3-29
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:10:3-34
+	android:usesCleartextTraffic
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:9:3-38
+activity#com.my.sikhiquiz.MainActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:11:3-22:14
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:17:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:14:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:15:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:13:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:16:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:12:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:18:4-21:20
+action#android.intent.action.MAIN
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:19:5-57
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:19:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:20:15-62
+activity#com.my.sikhiquiz.LoadingActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:23:3-30:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:29:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:26:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:30:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:27:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:25:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:28:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:24:4-35
+activity#com.my.sikhiquiz.PlayActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:31:3-38:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:37:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:34:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:38:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:35:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:33:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:36:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:32:4-32
+activity#com.my.sikhiquiz.MapActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:39:3-46:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:45:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:42:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:46:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:43:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:41:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:44:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:40:4-31
+activity#com.my.sikhiquiz.IndexActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:47:3-54:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:53:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:50:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:54:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:51:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:49:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:52:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:48:4-33
+activity#com.my.sikhiquiz.Ch_1Activity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:55:3-62:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:61:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:58:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:62:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:59:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:57:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:60:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:56:4-32
+activity#com.my.sikhiquiz.ChTwoActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:63:3-70:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:69:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:66:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:70:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:67:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:65:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:68:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:64:4-33
+activity#com.my.sikhiquiz.ChThreeActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:71:3-78:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:77:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:74:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:78:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:75:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:73:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:76:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:72:4-35
+activity#com.my.sikhiquiz.ChFourActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:79:3-86:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:85:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:82:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:86:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:83:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:81:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:84:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:80:4-34
+activity#com.my.sikhiquiz.ChSixActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:87:3-94:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:93:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:90:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:94:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:91:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:89:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:92:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:88:4-33
+activity#com.my.sikhiquiz.ChSevenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:95:3-102:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:101:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:98:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:102:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:99:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:97:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:100:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:96:4-35
+activity#com.my.sikhiquiz.ChEightActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:103:3-110:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:109:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:106:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:110:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:107:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:105:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:108:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:104:4-35
+activity#com.my.sikhiquiz.ChNineActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:111:3-118:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:117:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:114:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:118:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:115:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:113:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:116:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:112:4-34
+activity#com.my.sikhiquiz.ChTenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:119:3-126:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:125:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:122:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:126:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:123:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:121:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:124:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:120:4-33
+activity#com.my.sikhiquiz.ChElevenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:127:3-134:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:133:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:130:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:134:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:131:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:129:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:132:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:128:4-36
+activity#com.my.sikhiquiz.ChTwelveActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:135:3-142:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:141:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:138:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:142:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:139:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:137:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:140:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:136:4-36
+activity#com.my.sikhiquiz.ChThirteenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:143:3-150:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:149:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:146:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:150:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:147:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:145:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:148:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:144:4-38
+activity#com.my.sikhiquiz.ChFourteenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:151:3-158:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:157:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:154:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:158:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:155:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:153:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:156:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:152:4-38
+activity#com.my.sikhiquiz.ChFifteenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:159:3-166:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:165:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:162:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:166:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:163:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:161:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:164:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:160:4-37
+activity#com.my.sikhiquiz.ChSixteenActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:167:3-174:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:173:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:170:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:174:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:171:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:169:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:172:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:168:4-37
+activity#com.my.sikhiquiz.ChFiveActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:175:3-182:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:181:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:178:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:182:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:179:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:177:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:180:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:176:4-34
+activity#com.my.sikhiquiz.ChMixActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:183:3-190:48
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:189:4-40
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:186:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:190:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:187:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:185:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:188:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:184:4-33
+activity#com.my.sikhiquiz.StartActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:191:3-197:48
+	android:hardwareAccelerated
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:194:4-38
+	android:windowSoftInputMode
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:197:4-45
+	android:supportsPictureInPicture
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:195:4-43
+	android:configChanges
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:193:4-97
+	android:theme
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:196:4-37
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:192:4-33
+activity#com.my.sikhiquiz.DebugActivity
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:198:3-200:43
+	android:screenOrientation
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:200:4-40
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:199:4-33
+uses-library#org.apache.http.legacy
+ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:201:3-203:31
+	android:required
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:203:4-28
+	android:name
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml:202:4-41
+uses-sdk
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gurmukh\My Android Studio\Running,Done\Sikhi_Quiz OG\app\src\main\AndroidManifest.xml

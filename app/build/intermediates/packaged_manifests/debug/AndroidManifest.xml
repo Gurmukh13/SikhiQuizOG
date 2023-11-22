@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.my.sikhiquiz"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.my.sikhiquiz.MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.my.sikhiquiz.LoadingActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.PlayActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.MapActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.IndexActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.Ch_1Activity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChTwoActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChThreeActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChFourActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChSixActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChSevenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChEightActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChNineActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChTenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChElevenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChTwelveActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChThirteenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChFourteenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChFifteenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChSixteenActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChFiveActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.ChMixActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.StartActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+            android:hardwareAccelerated="true"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/FullScreen"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.sikhiquiz.DebugActivity"
+            android:screenOrientation="portrait" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

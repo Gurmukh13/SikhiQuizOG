@@ -1,0 +1,201 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear7"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		<ScrollView
+			android:id="@+id/vscroll1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+			<LinearLayout
+				android:id="@+id/linear1"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical">
+				<LinearLayout
+					android:id="@+id/linear2"
+					android:layout_width="match_parent"
+					android:layout_height="550dp"
+					android:background="@drawable/map1"
+					android:gravity="center_horizontal"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear8"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-30.0dp"
+						android:translationY="15.0dp" />
+					<LinearLayout
+						android:id="@+id/linear9"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-40.0dp"
+						android:translationY="55.0dp" />
+					<LinearLayout
+						android:id="@+id/linear10"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-50.0dp"
+						android:translationY="145.0dp" />
+					<LinearLayout
+						android:id="@+id/linear11"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-35.0dp"
+						android:translationY="180.0dp" />
+					<LinearLayout
+						android:id="@+id/linear16"
+						android:layout_width="70dp"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:gravity="bottom"
+						android:orientation="horizontal"
+						android:translationX="120.0dp"
+						android:translationY="250.0dp"
+						android:layout_gravity="bottom" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear3"
+					android:layout_width="match_parent"
+					android:layout_height="550dp"
+					android:paddingLeft="8dp"
+					android:paddingRight="8dp"
+					android:paddingBottom="8dp"
+					android:background="@drawable/map2"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear12"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:gravity="center_horizontal"
+						android:orientation="horizontal"
+						android:translationX="-30.0dp"
+						android:translationY="-20.0dp"
+						android:layout_gravity="center_horizontal" />
+					<LinearLayout
+						android:id="@+id/linear13"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="90.0dp"
+						android:translationY="90.0dp" />
+					<LinearLayout
+						android:id="@+id/linear14"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="90.0dp"
+						android:translationY="135.0dp" />
+					<LinearLayout
+						android:id="@+id/linear15"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="100.0dp"
+						android:translationY="200.0dp" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear4"
+					android:layout_width="match_parent"
+					android:layout_height="550dp"
+					android:padding="8dp"
+					android:background="@drawable/map3"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear17"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="110.0dp" />
+					<LinearLayout
+						android:id="@+id/linear23"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="90.0dp"
+						android:translationY="40.0dp" />
+					<LinearLayout
+						android:id="@+id/linear24"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="90.0dp"
+						android:translationY="120.0dp" />
+					<LinearLayout
+						android:id="@+id/linear25"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="100.0dp"
+						android:translationY="170.0dp" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear5"
+					android:layout_width="match_parent"
+					android:layout_height="550dp"
+					android:padding="8dp"
+					android:background="@drawable/map4"
+					android:gravity="right"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear19"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-80.0dp"
+						android:translationY="20.0dp" />
+					<LinearLayout
+						android:id="@+id/linear20"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-40.0dp"
+						android:translationY="100.0dp" />
+					<LinearLayout
+						android:id="@+id/linear21"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:translationX="-110.0dp"
+						android:translationY="180.0dp" />
+					<LinearLayout
+						android:id="@+id/linear22"
+						android:layout_width="70dp"
+						android:layout_height="70dp"
+						android:padding="8dp"
+						android:gravity="bottom"
+						android:orientation="horizontal"
+						android:translationX="-220.0dp"
+						android:translationY="210.0dp" />
+				</LinearLayout>
+			</LinearLayout>
+		</ScrollView>
+	</LinearLayout>
+</LinearLayout>
